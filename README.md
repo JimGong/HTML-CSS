@@ -1,26 +1,23 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
+# CS 171 Spring 2016
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
+<!-- github will render markdown files nicely -->
+<!-- https://help.github.com/articles/basic-writing-and-formatting-syntax/ -->
 
-## Getting Started
+Welcome to my CS 171 Web Development submission repository.
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+<!-- fill your information in the table below (replace "templates" with your username) -->
+<!-- https://help.github.com/articles/organizing-information-with-tables/ -->
 
-## Bugs and Issues
+|  **Name** | :bust_in_silhouette: JiaMin Gong |
+|---:|:---|
+| **Email** | :e-mail: `jgong7@dons.usfca.edu` |
+|   **URL** | :earth_americas: <https://github.com/JimGong/JimGong.github.io> |
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
+<!-- for more emoji see http://www.emoji-cheat-sheet.com/ -->
 
-## Creator
+## Biography
+I am JiaMin Gong. My email address is jgong7@dons.usfca.edu
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+I grew up in Shanghai, China. Started to study abroad in USF in 2014. 
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
+My major is Computer Science. I choose it because I love it and coding looks so fancy to me at that time. I still love it though.

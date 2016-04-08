@@ -1,4 +1,4 @@
-# CS 360 Spring 2016
+# CS 171 Spring 2016
 
 <!-- github will render markdown files nicely -->
 <!-- https://help.github.com/articles/basic-writing-and-formatting-syntax/ -->
